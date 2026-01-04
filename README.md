@@ -15,11 +15,46 @@ Gaining experience through personal projects and hands-on practice.
 
 > 🇭🇺 Hungarian - Intermediate (daily use in education)
 
-## <h3 align="center">My Stack</h3>
+### <div align="center">My Stack</div>
 
-**Frontend:**
+**Frontend**
 
-<br/>
+<div style="display: grid; grid-template-columns: repeat(auto-fill,40px); column-gap: 4px; margin-bottom:10px">
+            <img width="40" hight="40" title="HTML5" src="./images/html5.svg"/>
+            <img width="40" height="40" title="CSS3" src="./images/css3.svg" />
+            <img width="40" height="40" title="JavaScript" src="./images/javascript.svg" />
+            <img width="40" height="40" title="Bootstrap" src="./images/bootstrap.svg" />
+            <img width="40" height="40" title="Vue.js" src="./images/vuejs.svg" />
+            <img width="40" height="40" title="TailwindCSS" src="./images/tailwindcss.svg" />
+            <img width="40" height="40" title="Vite" src="./images/vite.svg" />
+            <img width="40" height="40" title="Pinia" src="./images/pinia.svg" />
+            <img width="40" height="40" title="PrimeVue" src="./images/primevue.svg" />
+</div>
+
+**Backend**
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill,40px); column-gap: 4px; margin-bottom:10px">
+            <img width="40" hight="40" title="Node.js" src="./images/nodejs.svg"/>
+            <img width="40" height="40" title="Express.js" src="./images/express.svg" />
+            <img width="40" height="40" title="MongoDB" src="./images/mongodb.svg" />
+            <img width="40" height="40" title="MySQL" src="./images/mysql.svg" />
+            <img width="40" height="40" title="Sequelize" src="./images/sequelize.svg" />
+</div>
+
+**Tools**
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill,40px); column-gap: 4px; margin-bottom: 10px">
+            <img width="40" hight="40" title="Visual Studio Code" src="./images/vscode.svg"/>
+            <img width="40" height="40" title="Postman" src="./images/postman.svg" />
+            <img width="40" height="40" title="XAMPP" src="./images/xampp.svg" />
+</div>
+
+**Other (learning)**
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill,40px); column-gap: 4px">
+            <img width="40" hight="40" title="C#" src="./images/csharp.svg"/>
+            <img width="40" height="40" title="Microsoft Visual Studio" src="./images/visualstudio.svg" />
+</div>
 
 ## Connect with me
 
