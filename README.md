@@ -25,7 +25,7 @@ Gaining experience through personal projects and hands-on practice.
             <img width="40" height="40" title="JavaScript" src="./images/javascript.svg" />
             <img width="40" height="40" title="Bootstrap" src="./images/bootstrap.svg" />
             <img width="40" height="40" title="Vue.js" src="./images/vuejs.svg" />
-            <img width="40" height="40" title="TailwindCSS" src="./images/tailwindcss.svg" />
+            <img width="40" height="40" title="Tailwind" src="./images/tailwindcss.svg" />
             <img width="40" height="40" title="Vite" src="./images/vite.svg" />
             <img width="40" height="40" title="Pinia" src="./images/pinia.svg" />
             <img width="40" height="40" title="PrimeVue" src="./images/primevue.svg" />
@@ -56,46 +56,24 @@ Gaining experience through personal projects and hands-on practice.
             <img width="40" height="40" title="Microsoft Visual Studio" src="./images/visualstudio.svg" />
 </div>
 
-## Connect with me
+### <div align="center">Contact Me</div>
 
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/DanielOremus" target="_blank">
+<img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge" alt=Linkedin />
 </a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 </div>
 
-<br/>
+### <div align="center">GitHub Stats</div>
 
-## Github Stats
+<p align="center">
+    <img src="https://github-readme-stats-fork-mauve.vercel.app/api?username=DanielOremus"/>
+</p>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<br/>
-
-## Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.
-
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DanielOremus&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br/>
 
