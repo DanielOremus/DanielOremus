@@ -69,24 +69,17 @@ Gaining experience through personal projects and hands-on practice.
 
 ### <div align="center">GitHub Stats</div>
 
-<p align="center">
-    <img src="https://github-readme-stats-fork-mauve.vercel.app/api?username=DanielOremus"/>
-</p>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DanielOremus&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=DanielOremus&&style=flat-square" align="center" />
-</div>
-
-<br/>
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+<picture>
+  <source
+    srcset="https://github-readme-stats-fork-mauve.vercel.app/api?username=DanielOremus&custom_title=GitHub%20Stats&show_icons=true&theme=one_dark_pro"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img align="left" src="https://github-readme-stats-fork-mauve.vercel.app/api?username=DanielOremus&show_icons=true&custom_title=GitHub%20Stats" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats-fork-mauve.vercel.app/api/top-langs?username=DanielOremus&theme=one_dark_pro&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img align="left" src="https://github-readme-stats-fork-mauve.vercel.app/api/top-langs?username=DanielOremus&layout=compact" />
+</picture>
