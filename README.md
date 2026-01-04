@@ -7,21 +7,13 @@ Gaining experience through personal projects and hands-on practice.
 
 **Languages:**
 
-```
-🇺🇦 Ukrainian - Native
-```
+> 🇺🇦 Ukrainian - Native
 
-```
-🇬🇧 English - Intermediate (B1-B2)
-```
+> 🇬🇧 English - Intermediate (B1-B2)
 
-```
-🇩🇪 German - Upper-Intermediate (B2)
-```
+> 🇩🇪 German - Upper-Intermediate (B2)
 
-```
-🇭🇺 Hungarian - Intermediate (daily use in education)
-```
+> 🇭🇺 Hungarian - Intermediate (daily use in education)
 
 ## <h3 align="center">My Stack</h3>
 
