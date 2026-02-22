@@ -26,7 +26,6 @@ Gaining experience through personal projects and hands-on practice.
             <img width="40" height="40" title="Bootstrap" src="./images/bootstrap.svg" />
             <img width="40" height="40" title="Vue.js" src="./images/vuejs.svg" />
             <img width="40" height="40" title="Tailwind" src="./images/tailwindcss.svg" />
-            <img width="40" height="40" title="Vite" src="./images/vite.svg" />
             <img width="40" height="40" title="Pinia" src="./images/pinia.svg" />
             <img width="40" height="40" title="PrimeVue" src="./images/primevue.svg" />
 </div>
@@ -41,19 +40,10 @@ Gaining experience through personal projects and hands-on practice.
             <img width="40" height="40" title="Sequelize" src="./images/sequelize.svg" />
 </div>
 
-**Tools**
-
-<div style="display: grid; grid-template-columns: repeat(auto-fill,40px); column-gap: 4px; margin-bottom: 10px">
-            <img width="40" hight="40" title="Visual Studio Code" src="./images/vscode.svg"/>
-            <img width="40" height="40" title="Postman" src="./images/postman.svg" />
-            <img width="40" height="40" title="XAMPP" src="./images/xampp.svg" />
-</div>
-
-**Other (learning)**
+**Currently learning**
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill,40px); column-gap: 4px">
             <img width="40" hight="40" title="C#" src="./images/csharp.svg"/>
-            <img width="40" height="40" title="Microsoft Visual Studio" src="./images/visualstudio.svg" />
 </div>
 
 ### <div align="center">Contact Me</div>
