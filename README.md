@@ -35,9 +35,12 @@ Gaining experience through personal projects and hands-on practice.
 <div style="display: grid; grid-template-columns: repeat(auto-fill,40px); column-gap: 4px; margin-bottom:10px">
             <img width="40" hight="40" title="Node.js" src="./images/nodejs.svg"/>
             <img width="40" height="40" title="Express.js" src="./images/express.svg" />
+            <img width="40" height="40" title="NestJS" src="./images/nestjs.svg" />
             <img width="40" height="40" title="MongoDB" src="./images/mongodb.svg" />
             <img width="40" height="40" title="MySQL" src="./images/mysql.svg" />
+            <img width="40" height="40" title="Redis" src="./images/redis.svg" />
             <img width="40" height="40" title="Sequelize" src="./images/sequelize.svg" />
+            <img width="40" height="40" title="Prisma" src="./images/prisma.svg" />
 </div>
 
 **Currently learning**
