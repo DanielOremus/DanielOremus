@@ -41,7 +41,7 @@ Gaining experience through personal projects and hands-on practice.
             <img width="40" height="40" title="Redis" src="./images/redis.svg" />
             <img width="40" height="40" title="Sequelize" src="./images/sequelize.svg" />
             <img width="40" height="40" title="Prisma" src="./images/prisma.svg" />
-            <img width="40" height="40" title="MikroOrm" src="./images/mikro_orm.png" />
+            <img width="40" height="40" title="MikroORM" src="./images/mikro_orm.png" />
 </div>
 
 **Currently learning**
